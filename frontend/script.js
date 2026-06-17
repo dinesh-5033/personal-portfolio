@@ -10,8 +10,6 @@ window.addEventListener("load", () => {
 /* ================= TYPING EFFECT ================= */
 const texts = [
   "Full Stack Developer",
-  "MERN Stack Developer",
-  "UI/UX Enthusiast",
   "Problem Solver"
 ];
 

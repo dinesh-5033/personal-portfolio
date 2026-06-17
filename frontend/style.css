@@ -148,17 +148,9 @@ header {
 
 /* ========== PROFILE ========== */
 .profile-card img {
-  width: 320px;
-  height: 320px;
-  object-fit: cover;
+  width: 300px;
   border-radius: 20px;
-  border: 4px solid #38bdf8;
-  box-shadow: 0 0 40px rgba(56, 189, 248, 0.4);
-  transition: 0.3s;
-}
-
-.profile-card img:hover {
-  transform: scale(1.05);
+  box-shadow: 0 0 40px rgba(56, 189, 248, 0.3);
 }
 
 /* ========== SECTIONS ========== */

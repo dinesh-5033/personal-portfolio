@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/projects";
+const API_URL = "https://personal-backend-bv8x.onrender.com/api/projects";
 
 async function loadProjects(){
 
@@ -55,7 +55,7 @@ const email=document.getElementById("email").value;
 
 const message=document.getElementById("message").value;
 
-const response=await fetch("http://localhost:5000/api/contact",{
+const response=await fetch("https://personal-backend-bv8x.onrender.com/api/contact",{
 
 method:"POST",
 
